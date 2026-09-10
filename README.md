@@ -49,9 +49,7 @@ This project explores that idea using a simplified tight-binding-inspired
 energy model:
 
 \[
-E(k,x) = -2t\cos(ka)
-+ V_0\cos\left(\frac{2\pi x}{a}\right)
-- Fx
+E(k,x) = -2t\cos(ka) + V_0\cos\left(\frac{2\pi x}{a}\right) - Fx
 \]
 
 The model combines three contributions:
